@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-![cv](../assets/cv/cv_1.png)
+![cv](https://github.com/zhoujuan0305/zhiyuanzhou.github.io/assets/cv/cv_1.png)
